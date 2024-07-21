@@ -1,1 +1,1 @@
-hi
+hi, it is a python program that can be able to find the hatespeech in comments, posts etc
